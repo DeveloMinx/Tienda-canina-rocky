@@ -1,6 +1,6 @@
 # Landing Page de Tienda Canina
 Esta es una landing page de una tienda canina, desarrollada utilizando HTML, CSS y JavaScript.
-La página proporciona información y promociones relacionadas con productos y servicios para mascotas caninas.
+La página proporciona información y promociones relacionadas con productos y servicios para mascotas.
 ![image](https://github.com/DeveloMinx/Tienda-canina-rocky/assets/123894512/61b9dd22-e6ff-4fc3-a80b-3a95b62ae647)
 
 ## Características del proyecto
